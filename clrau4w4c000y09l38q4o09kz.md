@@ -1,8 +1,8 @@
 ---
-title: "Navigating the Java Seas: A Guide to Exception Handling: Part 1"
+title: "Navigating the Java Seas: A Guide to Exception Handling"
 datePublished: Fri Jan 12 2024 16:10:47 GMT+0000 (Coordinated Universal Time)
 cuid: clrau4w4c000y09l38q4o09kz
-slug: navigating-the-java-seas-a-guide-to-exception-handling-part-1
+slug: navigating-the-java-seas-a-guide-to-exception-handling
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1705068484180/1edfdc07-e9bc-41c6-9980-03156dd9c61e.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1705075764184/a61f9cf5-1bb1-4585-b946-8a114c7c801e.png
 tags: blogging, developer, full-stack-development, exceptionhandling, wemakedevs, technikio
