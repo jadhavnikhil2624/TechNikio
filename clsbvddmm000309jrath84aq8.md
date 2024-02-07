@@ -9,9 +9,11 @@ tags: blogging, java, developer, multithreading, full-stack-development, wemaked
 
 ---
 
+### **#CodeMagicLaughs🦸‍♂️**
+
 ### **1\. Introduction:**
 
-> **Multithreading in** [**Java**](https://www.javatpoint.com/java-tutorial) [is a](https://www.javatpoint.com/java-tutorial) process of executing multiple threads simultaneously.
+> **Multithreading in**[**Java**is a](https://www.javatpoint.com/java-tutorial) process of executing multiple threads simultaneously.
 > 
 > A thread is a lightweight sub-process, the smallest unit of processing. Multiprocessing and multithreading, both are used to achieve multitasking.
 > 
@@ -103,8 +105,8 @@ tags: blogging, java, developer, multithreading, full-stack-development, wemaked
 > 5. **Supporting Role**: Daemon threads often support the main execution threads by handling background tasks that don't require explicit control or management from the main program logic. They help in keeping the application running smoothly by performing housekeeping tasks.
 >     
 > 6. ```java
->     Thread thread = new Thread();
->     thread.setDaemon(true); // Set as daemon thread
+>      Thread thread = new Thread();
+>      thread.setDaemon(true); // Set as daemon thread
 >     ```
 >     
 
@@ -135,3 +137,7 @@ tags: blogging, java, developer, multithreading, full-stack-development, wemaked
 ### **Conclusion:**
 
 > In this article, we explored the fundamentals of threads with engaging examples, unraveling the essence of concurrent programming. But hold onto your hats! Our next adventure takes us deeper into the world of Java multithreading. Get ready for a journey filled with excitement, synchronization showdowns, and the art of orchestrating threads in perfect harmony. Stay tuned for a multithreading experience like no other!👨‍💻🚀🎯
+
+### **#CodeMagicLaughs🦸‍♂️**
+
+### **Happy coding! 🚀✨**
